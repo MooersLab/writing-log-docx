@@ -3,10 +3,27 @@
 
 # writing-log-docx: Writing log template in markdown
 
+## Introduction
 Use this writing log in parallel to the main writing project document to track your progress and record your plans.
 
 
-Version 0.3 of the writing log is divided into four sections: project intiation; daily entries; future additions and tangents; and Guidelines, checklists, protocols, and helpful.
+The writing log is a document that is external to the manuscript.
+It is used to store the plans and progress made on a one manuscript.
+It is tool for enhancing your focus and sustaining forward momentum on the writing project.
+It is also tool that ease re-engagement in an interrupted writing project.
+The writing log is like a master thinking document or second brain for a writing project.
+
+Instructions for using the writing log are found in the annotations in the template.
+You can delete these after they are no longer needed.
+
+Version 0.3 of the writing log is divided into four sections: 
+
+- project intiation
+- daily entries
+- future additions and tangents
+- Guidelines, checklists, protocols, and helpful tips
+
+The subsections of these four sections are shown below.
 
 ## Project intiation
 
