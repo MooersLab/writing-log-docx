@@ -6,12 +6,11 @@
 ## Introduction
 Use this writing log in parallel to the main writing project document to track your progress and record your plans.
 
-
 The writing log is a document that is external to the manuscript.
-It is used to store the plans and progress made on a one manuscript.
-It is tool for enhancing your focus and sustaining forward momentum on the writing project.
-It is also tool that ease re-engagement in an interrupted writing project.
-The writing log is like a master thinking document or second brain for a writing project.
+It stores the plans and progress made on one manuscript.
+It is a tool for enhancing your focus and sustaining momentum on the writing project.
+It is also a tool that eases re-engagement in an interrupted writing project.
+The writing log is like a master thinking document or a second brain for a writing project.
 
 Instructions for using the writing log are found in the annotations in the template.
 You can delete these after they are no longer needed.
@@ -46,7 +45,7 @@ The subsections of these four sections are shown below.
 
 ## Daily entries
 
-- Daily protocol
+- Daily Protocol
 - Daily Log
 - Update writing progress notebook
 - Update personal knowledge base
@@ -63,7 +62,7 @@ The subsections of these four sections are shown below.
   + Results
   + Discussion
 - To be done someday
-- Spin off writing projects
+- Spin-off writing projects
 
 
 ## Guidelines, checklists, protocols, helpful hints
@@ -73,17 +72,17 @@ The subsections of these four sections are shown below.
 - Guidelines for debugging the annotated bibliography
 - Graphical Abstract
 - Guidelines for benchmarks
-- Guidelines for using Writing Progress Notebook
+- Guidelines for using the Writing Progress Notebook
 - Guidelines for using a personal knowledge base
 
 ## Related projects of possible interest
 
-- [Writing Log template in LaTeX](https://github.com/MooersLab/writingLogTemplate). The favored format. LaTeX beginers can use this document easily on Overleaf without any configuration.
+- [Writing Log template in LaTeX](https://github.com/MooersLab/writingLogTemplate). The favored format. LaTeX beginners can use this document easily on Overleaf without any configuration.
 - [Writing log template in Org-mode](https://github.com/MooersLab/writingLogTemplateInOrg) Has all of the features of the LaTeX variant. Favored by many Emacs users. Org-mode is a powerful analog of markdown that can interpret LaTeX code blocks. It is vastly more capable than markdown. It even supports literate programming.
 - [Writing log template in reStructuredText](https://github.com/MooersLab/writing-log-rst) reStructuredText is used by programmers for documentation.
 - [Writing log template in Markdown](https://github.com/MooersLab/writing-log-md) Markdown variant. Read and rendered to PDF by most good text editors.
 - [Writing log template in ODT](https://github.com/MooersLab/writing-log-odt) ODT can be read by Open Office, LibreOffice and MS Word.
-- [Voice computing related repos](https://github.com/MooersLab#voice-computing)
+- [Voice computing-related repositories](https://github.com/MooersLab#voice-computing)
 - [LaTeX manuscript template](https://github.com/MooersLab/manuscriptInLaTeX/edit/main/README.md)
 - [Org-mode manuscript template](https://github.com/MooersLab/manuscriptInOrg/edit/main/README.md)
 - [Slideshow template in LaTeX](https://github.com/MooersLab/slideshowTemplateLaTeX)
